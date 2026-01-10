@@ -2,13 +2,13 @@
 <h3 align="center">A Software Engineer from Missouri, USA</h3>
 
 
-- 🔭 I’m currently working on [WTWR](https://yournd.github.io/se_project_react_WTWR/), a weather app that will tell you what clothes to wear depending on the temperature outside!
+- 🔭 I’m currently working on [AFRI](https://yournd.github.io/se_project_react_WTWR/), an AI Frontend Regression Inspector web app that compares two different screenshots of UI and returns a detailed analysis of all changes made!
 
 - 🌱 I’m currently learning **Software Engineering with TripleTen**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yournd](https://github.com/Yournd)
 
-- 💬 Ask me about **AI-related topics, React topics, neural nets from scratch, custom PC builds, custom AI agents, different uses of OpenAI, pretty much anything tech-related I love**
+- 💬 Ask me about **AI-related topics, React topics, neural nets from scratch, regression tracking, custom PC builds, custom AI agents, different uses of OpenAI, pretty much anything tech-related I love**
 
 - 📫 How to reach me **quiz.nv1@gmail.com**
 
