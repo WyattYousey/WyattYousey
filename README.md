@@ -1,24 +1,22 @@
-<h1 align="center">Hi 👋, I'm Wyatt</h1>
-<h3 align="center">A Software Engineer from Missouri, USA</h3>
+# 💫 About Me:
+🔭 I’m currently working on~ AFRI an AI Frontend Regression Inspector that allows users to compare UI updates <br><br>👯 I’m looking to collaborate on~ anything at all! Shoot me a message or email!<br><br>🤝 I’m looking for help with~ Algorithms!<br><br>🌱 I’m currently learning~ Data Structures and Algorithms for interview prep!<br><br>💬 Ask me about~ anything AI-related or React v.s. HTMX, those are my favorite topics right now!<br><br>⚡ Fun fact I was a welder for 3 years before I started my software engineering journey!
 
 
-- 🔭 I’m currently working on [AFRI](https://github.com/Yournd/se_project_AFRI), an AI Frontend Regression Inspector web app that compares two different screenshots of UI and returns a detailed analysis of all changes made!
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:quiz.nv1@gmail.com) 
 
-- 🌱 I’m currently learning **Software Engineering with TripleTen**
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=WyattYousey&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=WyattYousey&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=WyattYousey&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Yournd](https://github.com/Yournd)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 💬 Ask me about **AI-related topics, React topics, neural nets from scratch, regression tracking, custom PC builds, custom AI agents, different uses of OpenAI, pretty much anything tech-related I love**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=WyattYousey&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- 📫 How to reach me **quiz.nv1@gmail.com**
-
-- ⚡ Fun fact **I was a welder for 3 years before I started Software Engineering!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/wyatt yousey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wyatt yousey" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yournd&theme=dark" alt="yournd" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=WyattYousey&icon=3&color=3)](https://visitcount.itsvg.in)
