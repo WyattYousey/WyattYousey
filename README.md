@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on~ AFRI an AI Frontend Regression Inspector that allows users to compare UI updates <br><br>👯 I’m looking to collaborate on~ anything at all! Shoot me a message or email!<br><br>🤝 I’m looking for help with~ Algorithms!<br><br>🌱 I’m currently learning~ Data Structures and Algorithms for interview prep!<br><br>💬 Ask me about~ anything AI-related or React v.s. HTMX, those are my favorite topics right now!<br><br>⚡ Fun fact I was a welder for 3 years before I started my software engineering journey!
+🔭 I’m currently working on~ learning the ins and outs of rich text editors and improving my frontend skills <br><br>👯 I’m looking to collaborate on~ anything at all! Shoot me a message or email!<br><br>🤝 I’m looking for help with~ Algorithms!<br><br>🌱 I’m currently learning~ Data Structures and Algorithms for interview prep!<br><br>⚡ Fun fact I was a welder for 3 years before I started my software engineering journey!
 
 
 ## 🌐 Socials:
@@ -14,6 +14,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=WyattYousey&icon=3&color=3)](https://visitcount.itsvg.in)
